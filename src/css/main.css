@@ -573,6 +573,10 @@ Jobs
   color: var(--clr-primary-5);
   box-shadow: 0 2px var(--clr-primary-5);
 }
+button:focus {
+  outline:0;
+}
+
 .job-info {
   /* min-height: 420px; */
 }
